@@ -115,7 +115,6 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
 | Project | What it does | Stack |
 |---|---|---|
 | 🤖 [**gemini-interactive-planner**](https://github.com/VikAnalytics/gemini-interactive-planner) | Interactive, step-by-step planning loop exposed as an MCP tool for Claude Code & Cursor — approve / edit / comment each step, get structured JSON back. | `JavaScript` `MCP` `Gemini` |
-| 🔌 [**alt-llm-planner**](https://github.com/VikAnalytics/alt-llm-planner) | Offload architectural planning Q&A to a side-terminal LLM, return a dense markdown blueprint to Claude. Saves context window + token cost. | `JavaScript` `MCP` `LLM` |
 | 📄 [**ForkCV.ai**](https://github.com/VikAnalytics/ForkCV.ai) | Local AI-powered resume tailoring — paste a job link, get a tailored one-page LaTeX PDF. Bulk mode + applied-jobs tracker. | `Python` `LLM` `LaTeX` |
 | 📊 [**product-sentiment-engine**](https://github.com/VikAnalytics/product-sentiment-engine) | Dual-signal market intelligence platform for product strategy. | `Python` `Vercel` |
 | 🏏 [**ipl-analytics**](https://github.com/VikAnalytics/ipl-analytics) · [**ipl-etl**](https://github.com/VikAnalytics/ipl-etl) | NL → SQL cricket analytics on a Cricsheet → Supabase warehouse. | `Python` `SQL` `Supabase` |
