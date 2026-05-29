@@ -61,26 +61,26 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
 
 <table>
   <tr>
-    <td align="center" width="160" height="56" valign="middle">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/320px-Accenture.svg.png" height="22" alt="Accenture" />
+    <td align="center" width="155" height="56" valign="middle">
+      <img src="assets/logos/accenture.svg" height="24" alt="Accenture" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="160" height="56" valign="middle">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/University_of_Illinois_at_Urbana-Champaign_Wordmark.svg/320px-University_of_Illinois_at_Urbana-Champaign_Wordmark.svg.png" height="30" alt="UIUC" />
+    <td align="center" width="155" height="56" valign="middle">
+      <img src="assets/logos/uiuc.svg" height="40" alt="UIUC" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="160" height="56" valign="middle">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Logo_Bayer.svg/320px-Logo_Bayer.svg.png" height="38" alt="Bayer" />
+    <td align="center" width="120" height="56" valign="middle">
+      <img src="assets/logos/bayer.svg" height="46" alt="Bayer" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="160" height="56" valign="middle">
+    <td align="center" width="150" height="56" valign="middle">
       <img src="assets/logos/saayam.png" height="46" alt="Saayam For All" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="185" height="56" valign="middle">
-      <img src="assets/logos/incedo.png" height="34" alt="Incedo" />
+    <td align="center" width="195" height="56" valign="middle">
+      <img src="assets/logos/incedo.svg" height="26" alt="Incedo" />
       &nbsp;<sub>client</sub>&nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Verizon_2024.svg/120px-Verizon_2024.svg.png" height="13" alt="Verizon" />
+      <img src="assets/logos/verizon.svg" height="16" alt="Verizon" />
     </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
 <table>
   <tr>
     <td valign="middle">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/University_of_Illinois_at_Urbana-Champaign_Wordmark.svg/360px-University_of_Illinois_at_Urbana-Champaign_Wordmark.svg.png" height="44" alt="University of Illinois Urbana-Champaign" />
+      <img src="assets/logos/uiuc.svg" height="52" alt="University of Illinois Urbana-Champaign" />
     </td>
     <td valign="middle">
       &nbsp;&nbsp;<b>University of Illinois Urbana-Champaign</b><br/>
