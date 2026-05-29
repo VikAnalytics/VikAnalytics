@@ -62,25 +62,25 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
 <table>
   <tr>
     <td align="center" height="64" valign="middle">
-      <img src="assets/logos/cards/accenture.png" height="40" alt="Accenture" />
+      <img src="assets/logos/cards/accenture-v2.png" height="40" alt="Accenture" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
     <td align="center" height="64" valign="middle">
-      <img src="assets/logos/cards/uiuc.png" height="40" alt="UIUC" />
+      <img src="assets/logos/cards/uiuc-v2.png" height="40" alt="UIUC" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
     <td align="center" height="64" valign="middle">
-      <img src="assets/logos/cards/bayer.png" height="40" alt="Bayer" />
+      <img src="assets/logos/cards/bayer-v2.png" height="40" alt="Bayer" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
     <td align="center" height="64" valign="middle">
-      <img src="assets/logos/cards/saayam.png" height="40" alt="Saayam For All" />
+      <img src="assets/logos/cards/saayam-v2.png" height="40" alt="Saayam For All" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
     <td align="center" height="64" valign="middle">
-      <img src="assets/logos/cards/incedo.png" height="40" alt="Incedo" />
+      <img src="assets/logos/cards/incedo-v2.png" height="40" alt="Incedo" />
       &nbsp;<sub>client</sub><br/>
-      <img src="assets/logos/cards/verizon.png" height="22" alt="Verizon" />
+      <img src="assets/logos/cards/verizon-v2.png" height="22" alt="Verizon" />
     </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
 <table>
   <tr>
     <td valign="middle">
-      <img src="assets/logos/cards/uiuc.png" height="52" alt="University of Illinois Urbana-Champaign" />
+      <img src="assets/logos/cards/uiuc-v2.png" height="52" alt="University of Illinois Urbana-Champaign" />
     </td>
     <td valign="middle">
       &nbsp;&nbsp;<b>University of Illinois Urbana-Champaign</b><br/>
