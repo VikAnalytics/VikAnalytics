@@ -5,23 +5,114 @@
   <em>Building things mindlessly till I find inspiration — pipelines, AI tooling, and data products.</em>
 </p>
 
+<!-- ───────────────────────── SOCIALS ───────────────────────── -->
 <p align="center">
+  <a href="https://www.linkedin.com/in/vikrant-indi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Vikrant_2704">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
   <a href="mailto:indivikrant@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/VikAnalytics">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=VikAnalytics&style=for-the-badge&color=8E75B2&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
 
-### 🔧 What I do
+## 🧑‍💻 About Me
 
-Data engineer who likes turning messy, real-world data into pipelines, warehouses, and the occasional AI-powered toy. Lately building **developer tooling for AI agents** — MCP servers that let Claude and Cursor offload planning to other LLMs.
+I'm a **Data Engineer** who likes turning messy, real-world data into clean pipelines, warehouses, and data products — with the occasional AI-powered side project. Currently at **Incedo**, based in **Atlanta, GA**.
 
-### 🚀 Featured Projects
+- 🔭 Lately building **developer tooling for AI agents** — MCP servers that let Claude & Cursor offload planning to other LLMs.
+- 🛠️ Comfortable across the stack: ETL/ELT, warehousing, NL→SQL, and shipping small full-stack data apps.
+- 🏏 Sports-data nerd — a lot of my side projects are cricket (IPL) and football (FPL) analytics.
+- 📫 Reach me at **indivikrant@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/vikrant-indi/).
+
+## 🧰 Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+**Data & Backend**
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+**AI / Tooling & Deploy**
+<p>
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 💼 Professional Journey
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=128" height="40" alt="Accenture" /><br/>
+      <b>Accenture</b><br/>
+      <sub>Associate Software Engineer</sub><br/>
+      <sub><b>2021</b></sub>
+    </td>
+    <td align="center" valign="middle"><h3>➜</h3></td>
+    <td align="center" width="150">
+      <img src="https://www.google.com/s2/favicons?domain=illinois.edu&sz=128" height="40" alt="UIUC" /><br/>
+      <b>UIUC</b><br/>
+      <sub>Technology Consultant</sub><br/>
+      <sub><b>2022 – 2024</b></sub>
+    </td>
+    <td align="center" valign="middle"><h3>➜</h3></td>
+    <td align="center" width="150">
+      <img src="https://www.google.com/s2/favicons?domain=bayer.com&sz=128" height="40" alt="Bayer" /><br/>
+      <b>Bayer</b><br/>
+      <sub>Data Scientist Co-op</sub><br/>
+      <sub><b>2023</b></sub>
+    </td>
+    <td align="center" valign="middle"><h3>➜</h3></td>
+    <td align="center" width="150">
+      <img src="https://www.google.com/s2/favicons?domain=saayamforall.org&sz=128" height="40" alt="Saayam For All" /><br/>
+      <b>Saayam For All</b><br/>
+      <sub>Full Stack Developer</sub><br/>
+      <sub><b>2024 – 2025</b></sub>
+    </td>
+    <td align="center" valign="middle"><h3>➜</h3></td>
+    <td align="center" width="165">
+      <img src="https://www.google.com/s2/favicons?domain=incedo.com&sz=128" height="40" alt="Incedo" /><br/>
+      <b>Incedo</b> <sub>(current)</sub><br/>
+      <sub>Data Engineer · client <img src="https://www.google.com/s2/favicons?domain=verizon.com&sz=64" height="11" alt="Verizon" /> <b>Verizon</b></sub><br/>
+      <sub><b>2025 – Present</b></sub>
+    </td>
+  </tr>
+</table>
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://www.google.com/s2/favicons?domain=illinois.edu&sz=128" height="56" alt="UIUC" />
+    </td>
+    <td valign="middle">
+      <b>University of Illinois Urbana-Champaign</b><br/>
+      <sub>Master's Degree</sub>
+    </td>
+  </tr>
+</table>
+
+## 🚀 Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -32,23 +123,7 @@ Data engineer who likes turning messy, real-world data into pipelines, warehouse
 | 🏏 [**ipl-analytics**](https://github.com/VikAnalytics/ipl-analytics) · [**ipl-etl**](https://github.com/VikAnalytics/ipl-etl) | NL → SQL cricket analytics on a Cricsheet → Supabase warehouse. | `Python` `SQL` `Supabase` |
 | ⚽ [**fpl-twitter-bot**](https://github.com/VikAnalytics/fpl-twitter-bot) | Event-driven FPL pipeline that tracks API changes and posts real-time alerts to X. | `Python` |
 
-### 🧰 Tech & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <br/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-</p>
-
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VikAnalytics&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vikrant's GitHub stats" height="165" />
@@ -62,4 +137,3 @@ Data engineer who likes turning messy, real-world data into pipelines, warehouse
 ---
 
 <p align="center"><sub>📍 Atlanta, GA · ✉️ <a href="mailto:indivikrant@gmail.com">indivikrant@gmail.com</a></sub></p>
-
