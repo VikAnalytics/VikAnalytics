@@ -121,17 +121,5 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
 | 🏏 [**ipl-analytics**](https://github.com/VikAnalytics/ipl-analytics) · [**ipl-etl**](https://github.com/VikAnalytics/ipl-etl) | NL → SQL cricket analytics on a Cricsheet → Supabase warehouse. | `Python` `SQL` `Supabase` |
 | ⚽ [**fpl-twitter-bot**](https://github.com/VikAnalytics/fpl-twitter-bot) | Event-driven FPL pipeline that tracks API changes and posts real-time alerts to X. | `Python` |
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikAnalytics&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vikrant's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikAnalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikAnalytics&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 ---
-
-<p align="center"><sub>📍 Atlanta, GA · ✉️ <a href="mailto:indivikrant@gmail.com">indivikrant@gmail.com</a></sub></p>
