@@ -61,40 +61,38 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=128" height="40" alt="Accenture" /><br/>
-      <b>Accenture</b><br/>
-      <sub>Associate Software Engineer</sub><br/>
-      <sub><b>2021</b></sub>
+    <td align="center" width="160" height="56" valign="middle">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/320px-Accenture.svg.png" height="22" alt="Accenture" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="150">
-      <img src="https://www.google.com/s2/favicons?domain=illinois.edu&sz=128" height="40" alt="UIUC" /><br/>
-      <b>UIUC</b><br/>
-      <sub>Technology Consultant</sub><br/>
-      <sub><b>2022 – 2024</b></sub>
+    <td align="center" width="160" height="56" valign="middle">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/University_of_Illinois_at_Urbana-Champaign_Wordmark.svg/320px-University_of_Illinois_at_Urbana-Champaign_Wordmark.svg.png" height="30" alt="UIUC" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="150">
-      <img src="https://www.google.com/s2/favicons?domain=bayer.com&sz=128" height="40" alt="Bayer" /><br/>
-      <b>Bayer</b><br/>
-      <sub>Data Scientist Co-op</sub><br/>
-      <sub><b>2023</b></sub>
+    <td align="center" width="160" height="56" valign="middle">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Logo_Bayer.svg/320px-Logo_Bayer.svg.png" height="38" alt="Bayer" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="150">
-      <img src="https://www.google.com/s2/favicons?domain=saayamforall.org&sz=128" height="40" alt="Saayam For All" /><br/>
-      <b>Saayam For All</b><br/>
-      <sub>Full Stack Developer</sub><br/>
-      <sub><b>2024 – 2025</b></sub>
+    <td align="center" width="160" height="56" valign="middle">
+      <img src="https://www.google.com/s2/favicons?domain=saayamforall.org&sz=128" height="34" alt="Saayam For All" /> <b>Saayam&nbsp;For&nbsp;All</b>
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="165">
-      <img src="https://www.google.com/s2/favicons?domain=incedo.com&sz=128" height="40" alt="Incedo" /><br/>
-      <b>Incedo</b> <sub>(current)</sub><br/>
-      <sub>Data Engineer · client <img src="https://www.google.com/s2/favicons?domain=verizon.com&sz=64" height="11" alt="Verizon" /> <b>Verizon</b></sub><br/>
-      <sub><b>2025 – Present</b></sub>
+    <td align="center" width="180" height="56" valign="middle">
+      <img src="https://www.google.com/s2/favicons?domain=incedo.com&sz=256" height="34" alt="Incedo" />
+      &nbsp;<sub>client</sub>&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Verizon_2024.svg/120px-Verizon_2024.svg.png" height="14" alt="Verizon" />
     </td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Associate Software Engineer<br/><b>2021</b></sub></td>
+    <td></td>
+    <td align="center"><sub>Technology Consultant<br/><b>2022 – 2024</b></sub></td>
+    <td></td>
+    <td align="center"><sub>Data Scientist Co-op<br/><b>2023</b></sub></td>
+    <td></td>
+    <td align="center"><sub>Full Stack Developer<br/><b>2024 – 2025</b></sub></td>
+    <td></td>
+    <td align="center"><sub><b>Incedo</b> — Data Engineer<br/><i>client: Verizon</i><br/><b>2025 – Present</b></sub></td>
   </tr>
 </table>
 
@@ -102,12 +100,12 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
 
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://www.google.com/s2/favicons?domain=illinois.edu&sz=128" height="56" alt="UIUC" />
+    <td valign="middle">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/University_of_Illinois_at_Urbana-Champaign_Wordmark.svg/360px-University_of_Illinois_at_Urbana-Champaign_Wordmark.svg.png" height="44" alt="University of Illinois Urbana-Champaign" />
     </td>
     <td valign="middle">
-      <b>University of Illinois Urbana-Champaign</b><br/>
-      <sub>Master's Degree</sub>
+      &nbsp;&nbsp;<b>University of Illinois Urbana-Champaign</b><br/>
+      &nbsp;&nbsp;<sub>Master's Degree</sub>
     </td>
   </tr>
 </table>
