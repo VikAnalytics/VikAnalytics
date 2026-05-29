@@ -134,4 +134,4 @@ I'm a **Data Engineer** at **Incedo**, based in **Atlanta, GA**. I'm happiest wh
 
 ---
 
-<p align="center"><sub>📍 Atlanta, GA · ✉️ <a href="mailto:indivikrant@gmail.com">indivikrant@gmail.com</a></sub></p>
+<p align="center"><sub>📍 Atlanta, GA · ✉️ <a href="mailto:vikrantindi427@gmail.com">vikrantindi427@gmail.com</a></sub></p>
