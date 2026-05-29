@@ -74,13 +74,13 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
     <td align="center" width="160" height="56" valign="middle">
-      <img src="https://www.google.com/s2/favicons?domain=saayamforall.org&sz=128" height="34" alt="Saayam For All" /> <b>Saayam&nbsp;For&nbsp;All</b>
+      <img src="assets/logos/saayam.png" height="46" alt="Saayam For All" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="180" height="56" valign="middle">
-      <img src="https://www.google.com/s2/favicons?domain=incedo.com&sz=256" height="34" alt="Incedo" />
+    <td align="center" width="185" height="56" valign="middle">
+      <img src="assets/logos/incedo.png" height="34" alt="Incedo" />
       &nbsp;<sub>client</sub>&nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Verizon_2024.svg/120px-Verizon_2024.svg.png" height="14" alt="Verizon" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Verizon_2024.svg/120px-Verizon_2024.svg.png" height="13" alt="Verizon" />
     </td>
   </tr>
   <tr>
