@@ -13,7 +13,7 @@
   <a href="https://x.com/Vikrant_2704">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:indivikrant@gmail.com">
+  <a href="mailto:vikrantindi427@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -27,7 +27,7 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
 - 🔭 Lately building **developer tooling for AI agents** — MCP servers that let Claude & Cursor offload planning to other LLMs.
 - 🛠️ Comfortable across the stack: ETL/ELT, warehousing, NL→SQL, and shipping small full-stack data apps.
 - 🏏 Sports-data nerd — a lot of my side projects are cricket (IPL) and football (FPL) analytics.
-- 📫 Reach me at **indivikrant@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/vikrant-indi/).
+- 📫 Reach me at **vikrantindi427@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/vikrant-indi/).
 
 ## 🧰 Tech Stack
 
