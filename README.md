@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Engineer @ Incedo</b> · UIUC grad · Atlanta, GA<br/>
-  <em>Building things mindlessly till I find inspiration — pipelines, AI tooling, and data products.</em>
+  <em>I turn messy, real-world data into pipelines and products people can actually trust.</em>
 </p>
 
 <!-- ───────────────────────── SOCIALS ───────────────────────── -->
@@ -22,12 +22,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Data Engineer** who likes turning messy, real-world data into clean pipelines, warehouses, and data products — with the occasional AI-powered side project. Currently at **Incedo**, based in **Atlanta, GA**.
+I'm a **Data Engineer** at **Incedo**, based in **Atlanta, GA**. I'm happiest when I'm untangling messy, real-world data and shaping it into pipelines and warehouses a team can build on without second-guessing. The rest of my time goes to small experiments that start as *"I wonder if this would work…"* and somehow end up shipped.
 
-- 🔭 Lately building **developer tooling for AI agents** — MCP servers that let Claude & Cursor offload planning to other LLMs.
-- 🛠️ Comfortable across the stack: ETL/ELT, warehousing, NL→SQL, and shipping small full-stack data apps.
-- 🏏 Sports-data nerd — a lot of my side projects are cricket (IPL) and football (FPL) analytics.
-- 📫 Reach me at **vikrantindi427@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/vikrant-indi/).
+- 🔭 Lately I've been building **developer tooling for AI agents** — MCP servers that let Claude & Cursor hand off planning to other LLMs.
+- 🛠️ I work across the stack: **ETL/ELT, warehousing, NL→SQL**, and the occasional full-stack data app.
+- 🏏 Unapologetic sports-data nerd — a fair few of my side projects are **cricket (IPL)** and **football (FPL)** analytics.
+- 📫 Always happy to talk data, tooling, or sport — reach me at **vikrantindi427@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/vikrant-indi/).
 
 ## 🧰 Tech Stack
 
@@ -115,10 +115,23 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
 | Project | What it does | Stack |
 |---|---|---|
 | 🤖 [**gemini-interactive-planner**](https://github.com/VikAnalytics/gemini-interactive-planner) | Interactive, step-by-step planning loop exposed as an MCP tool for Claude Code & Cursor — approve / edit / comment each step, get structured JSON back. | `JavaScript` `MCP` `Gemini` |
+| 🔌 [**alt-llm-planner**](https://github.com/VikAnalytics/alt-llm-planner) | Offload architectural planning Q&A to a side-terminal LLM, return a dense markdown blueprint to Claude. Saves context window + token cost. | `JavaScript` `MCP` `LLM` |
 | 📄 [**ForkCV.ai**](https://github.com/VikAnalytics/ForkCV.ai) | Local AI-powered resume tailoring — paste a job link, get a tailored one-page LaTeX PDF. Bulk mode + applied-jobs tracker. | `Python` `LLM` `LaTeX` |
 | 📊 [**product-sentiment-engine**](https://github.com/VikAnalytics/product-sentiment-engine) | Dual-signal market intelligence platform for product strategy. | `Python` `Vercel` |
 | 🏏 [**ipl-analytics**](https://github.com/VikAnalytics/ipl-analytics) · [**ipl-etl**](https://github.com/VikAnalytics/ipl-etl) | NL → SQL cricket analytics on a Cricsheet → Supabase warehouse. | `Python` `SQL` `Supabase` |
 | ⚽ [**fpl-twitter-bot**](https://github.com/VikAnalytics/fpl-twitter-bot) | Event-driven FPL pipeline that tracks API changes and posts real-time alerts to X. | `Python` |
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VikAnalytics&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vikrant's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikAnalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikAnalytics&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
+
+<p align="center"><sub>📍 Atlanta, GA · ✉️ <a href="mailto:indivikrant@gmail.com">indivikrant@gmail.com</a></sub></p>
