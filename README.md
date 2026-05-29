@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Vikrant 👋</h1>
 
 <p align="center">
-  <b>Data Engineer @ Incedo</b> · UIUC grad · Atlanta, GA<br/>
-  <em>I turn messy, real-world data into pipelines and products people can actually trust.</em>
+  <b>Data Engineer @ Incedo</b> · UIUC grad · Atlanta, GA
+</p>
+<p align="center">
+  <em>I turn messy, real-world data into pipelines and products people can actually trust —<br/>and tinker with AI tooling whenever something makes me curious.</em>
 </p>
 
 <!-- ───────────────────────── SOCIALS ───────────────────────── -->
@@ -114,12 +116,12 @@ I'm a **Data Engineer** at **Incedo**, based in **Atlanta, GA**. I'm happiest wh
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🤖 [**gemini-interactive-planner**](https://github.com/VikAnalytics/gemini-interactive-planner) | Interactive, step-by-step planning loop exposed as an MCP tool for Claude Code & Cursor — approve / edit / comment each step, get structured JSON back. | `JavaScript` `MCP` `Gemini` |
-| 🔌 [**alt-llm-planner**](https://github.com/VikAnalytics/alt-llm-planner) | Offload architectural planning Q&A to a side-terminal LLM, return a dense markdown blueprint to Claude. Saves context window + token cost. | `JavaScript` `MCP` `LLM` |
-| 📄 [**ForkCV.ai**](https://github.com/VikAnalytics/ForkCV.ai) | Local AI-powered resume tailoring — paste a job link, get a tailored one-page LaTeX PDF. Bulk mode + applied-jobs tracker. | `Python` `LLM` `LaTeX` |
-| 📊 [**product-sentiment-engine**](https://github.com/VikAnalytics/product-sentiment-engine) | Dual-signal market intelligence platform for product strategy. | `Python` `Vercel` |
-| 🏏 [**ipl-analytics**](https://github.com/VikAnalytics/ipl-analytics) · [**ipl-etl**](https://github.com/VikAnalytics/ipl-etl) | NL → SQL cricket analytics on a Cricsheet → Supabase warehouse. | `Python` `SQL` `Supabase` |
-| ⚽ [**fpl-twitter-bot**](https://github.com/VikAnalytics/fpl-twitter-bot) | Event-driven FPL pipeline that tracks API changes and posts real-time alerts to X. | `Python` |
+| 🤖 [**gemini-interactive-planner**](https://github.com/VikAnalytics/gemini-interactive-planner) | An MCP tool for Claude Code & Cursor that turns planning into a conversation — propose a step, you approve, edit, or push back, and it hands back clean structured JSON. | `JavaScript` `MCP` `Gemini` |
+| 🔌 [**alt-llm-planner**](https://github.com/VikAnalytics/alt-llm-planner) | Hands off architectural Q&A to a second LLM in a side terminal and returns a dense markdown blueprint — so your main agent saves both context window and tokens. | `JavaScript` `MCP` `LLM` |
+| 📄 [**ForkCV.ai**](https://github.com/VikAnalytics/ForkCV.ai) | Paste a job link, get a tailored one-page LaTeX résumé back — all running locally. Bulk mode and an applied-jobs tracker for the grind. | `Python` `LLM` `LaTeX` |
+| 📊 [**product-sentiment-engine**](https://github.com/VikAnalytics/product-sentiment-engine) | A dual-signal market-intelligence platform that blends signals into something product teams can actually steer by. | `Python` `Vercel` |
+| 🏏 [**ipl-analytics**](https://github.com/VikAnalytics/ipl-analytics) · [**ipl-etl**](https://github.com/VikAnalytics/ipl-etl) | Ask cricket questions in plain English, get answers in SQL — backed by a Cricsheet → Supabase warehouse I built end to end. | `Python` `SQL` `Supabase` |
+| ⚽ [**fpl-twitter-bot**](https://github.com/VikAnalytics/fpl-twitter-bot) | An event-driven Fantasy Premier League pipeline that watches the API for changes and fires real-time alerts straight to X. | `Python` |
 
 ## 📈 GitHub Stats
 
