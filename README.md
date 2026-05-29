@@ -61,26 +61,26 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
 
 <table>
   <tr>
-    <td align="center" width="155" height="56" valign="middle">
-      <img src="assets/logos/accenture.svg" height="24" alt="Accenture" />
+    <td align="center" height="64" valign="middle">
+      <img src="assets/logos/cards/accenture.png" height="40" alt="Accenture" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="155" height="56" valign="middle">
-      <img src="assets/logos/uiuc.svg" height="40" alt="UIUC" />
+    <td align="center" height="64" valign="middle">
+      <img src="assets/logos/cards/uiuc.png" height="40" alt="UIUC" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="120" height="56" valign="middle">
-      <img src="assets/logos/bayer.svg" height="46" alt="Bayer" />
+    <td align="center" height="64" valign="middle">
+      <img src="assets/logos/cards/bayer.png" height="40" alt="Bayer" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="150" height="56" valign="middle">
-      <img src="assets/logos/saayam.png" height="46" alt="Saayam For All" />
+    <td align="center" height="64" valign="middle">
+      <img src="assets/logos/cards/saayam.png" height="40" alt="Saayam For All" />
     </td>
     <td align="center" valign="middle"><h3>➜</h3></td>
-    <td align="center" width="195" height="56" valign="middle">
-      <img src="assets/logos/incedo.svg" height="26" alt="Incedo" />
-      &nbsp;<sub>client</sub>&nbsp;
-      <img src="assets/logos/verizon.svg" height="16" alt="Verizon" />
+    <td align="center" height="64" valign="middle">
+      <img src="assets/logos/cards/incedo.png" height="40" alt="Incedo" />
+      &nbsp;<sub>client</sub><br/>
+      <img src="assets/logos/cards/verizon.png" height="22" alt="Verizon" />
     </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ I'm a **Data Engineer** who likes turning messy, real-world data into clean pipe
 <table>
   <tr>
     <td valign="middle">
-      <img src="assets/logos/uiuc.svg" height="52" alt="University of Illinois Urbana-Champaign" />
+      <img src="assets/logos/cards/uiuc.png" height="52" alt="University of Illinois Urbana-Champaign" />
     </td>
     <td valign="middle">
       &nbsp;&nbsp;<b>University of Illinois Urbana-Champaign</b><br/>
