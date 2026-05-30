@@ -26,13 +26,13 @@
 
 My work focuses on core data infrastructure, ETL/ELT, and data warehousing. I also build full-stack data apps and applied AI workflows (NL→SQL).
 
-- Current Focus: Building developer tooling for AI agents, specifically MCP servers that enable multi-LLM planning for Claude and Cursor.
+- **Current Focus**: Building developer tooling for AI agents, specifically MCP servers that enable multi-LLM planning for Claude and Cursor.
 
-- Core Work: ETL/ELT, data warehousing, and NL→SQL pipelines.
+- **Core Work**: ETL/ELT, data warehousing, and NL→SQL pipelines.
 
-- Side Projects: Sports data analytics focusing on cricket (IPL) and football (FPL).
+- **Side Projects**: Sports data analytics focusing on cricket (IPL) and football (FPL).
 
-- Happy to connect and collaborate on projects — reach me at **vikrantindi427@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/vikrant-indi/).
+Happy to connect and collaborate on projects — reach me at **vikrantindi427@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/vikrant-indi/).
 
 ## Tech Stack
 
