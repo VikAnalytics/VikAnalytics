@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Vikrant 👋</h1>
+<h1 align="center">Hey, I'm Vikrant </h1>
 
 <p align="center">
   <b>Data Engineer @ Incedo</b> · UIUC grad · Atlanta, GA
 </p>
 <p align="center">
-  <em>I turn messy, real-world data into pipelines and products people can actually trust —<br/>and tinker with AI tooling whenever something makes me curious.</em>
+  <em>Building with Python, GCP, and GenAI. Currently working on agentic workflows, local personal use AI tools and sports/market platforms.</em>
 </p>
 
 <!-- ───────────────────────── SOCIALS ───────────────────────── -->
