@@ -22,16 +22,19 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a **Data Engineer** at **Incedo**, based in **Atlanta, GA**. I'm happiest when I'm untangling messy, real-world data and shaping it into pipelines and warehouses a team can build on without second-guessing. The rest of my time goes to small experiments that start as *"I wonder if this would work…"* and somehow end up shipped.
+My work focuses on core data infrastructure, ETL/ELT, and data warehousing. I also build full-stack data apps and applied AI workflows (NL→SQL).
 
-- 🔭 Lately I've been building **developer tooling for AI agents** — MCP servers that let Claude & Cursor hand off planning to other LLMs.
-- 🛠️ I work across the stack: **ETL/ELT, warehousing, NL→SQL**, and the occasional full-stack data app.
-- 🏏 Unapologetic sports-data nerd — a fair few of my side projects are **cricket (IPL)** and **football (FPL)** analytics.
-- 📫 Always happy to talk data, tooling, or sport — reach me at **vikrantindi427@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/vikrant-indi/).
+- Current Focus: Building developer tooling for AI agents, specifically MCP servers that enable multi-LLM planning for Claude and Cursor.
 
-## 🧰 Tech Stack
+- Core Work: ETL/ELT, data warehousing, and NL→SQL pipelines.
+
+- Side Projects: Sports data analytics focusing on cricket (IPL) and football (FPL).
+
+- Happy to connect and collaborate on projects — reach me at **vikrantindi427@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/vikrant-indi/).
+
+## Tech Stack
 
 **Languages**
 <p>
@@ -59,7 +62,7 @@ I'm a **Data Engineer** at **Incedo**, based in **Atlanta, GA**. I'm happiest wh
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 💼 Professional Journey
+## Career
 
 <table>
   <tr>
@@ -81,7 +84,7 @@ I'm a **Data Engineer** at **Incedo**, based in **Atlanta, GA**. I'm happiest wh
     <td align="center" valign="middle"><h3>➜</h3></td>
     <td align="center" height="64" valign="middle">
       <img src="assets/logos/cards/incedo-v2.png" height="40" alt="Incedo" />
-      &nbsp;<sub>client</sub><br/>
+      &nbsp;<sub></sub><br/>
       <img src="assets/logos/cards/verizon-v2.png" height="22" alt="Verizon" />
     </td>
   </tr>
@@ -98,7 +101,7 @@ I'm a **Data Engineer** at **Incedo**, based in **Atlanta, GA**. I'm happiest wh
   </tr>
 </table>
 
-## 🎓 Education
+## Education
 
 <table>
   <tr>
@@ -112,7 +115,7 @@ I'm a **Data Engineer** at **Incedo**, based in **Atlanta, GA**. I'm happiest wh
   </tr>
 </table>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -123,17 +126,6 @@ I'm a **Data Engineer** at **Incedo**, based in **Atlanta, GA**. I'm happiest wh
 | 🏏 [**ipl-analytics**](https://github.com/VikAnalytics/ipl-analytics) · [**ipl-etl**](https://github.com/VikAnalytics/ipl-etl) | Ask cricket questions in plain English, get answers in SQL — backed by a Cricsheet → Supabase warehouse I built end to end. | `Python` `SQL` `Supabase` |
 | ⚽ [**fpl-twitter-bot**](https://github.com/VikAnalytics/fpl-twitter-bot) | An event-driven Fantasy Premier League pipeline that watches the API for changes and fires real-time alerts straight to X. | `Python` |
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikAnalytics&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vikrant's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikAnalytics&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikAnalytics&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-<p align="center"><sub>📍 Atlanta, GA · ✉️ <a href="mailto:vikrantindi427@gmail.com">vikrantindi427@gmail.com</a></sub></p>
+<p align="center"><sub> ✉️ <a href="mailto:vikrantindi427@gmail.com">vikrantindi427@gmail.com</a></sub></p>
